@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst | Operations Analyst
 ---------------------------------
 
-After graduating with a chemical engineering degree, I found a passion for data analytics. Having completed the Google Data Analytics course, I am currently working on SQL and Tableau projects. I have garnered experience as an operations analyst in supply chain planning and looking to grow as a data analyst. 
+After graduating with a chemical engineering degree, I found a passion for data analytics. Having completed the Google Data Analytics course, I am currently working on SQL and Tableau projects. I have garnered experience as an operations analyst in manufacturing and supply chain planning and now looking to grow as a data analyst. 
 
 Excited for the journey ahead!
 
