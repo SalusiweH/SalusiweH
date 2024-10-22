@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Salu
 ============================================================================================================================
 
-Data Analyst | Operations Analyst
+Functional Consultant
 ---------------------------------
 
 After graduating with a chemical engineering degree, I found a passion for data analytics. Having completed the Google Data Analytics course, I am currently working on SQL and Tableau projects. I have garnered experience as an operations analyst in manufacturing and supply chain planning and now looking to grow as a data analyst. 
