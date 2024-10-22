@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Functional Consultant
 ---------------------------------
 
-After graduating with a chemical engineering degree, I found a passion for data analytics. Having completed the Google Data Analytics course, I am currently working on SQL and Tableau projects. I have garnered experience as an operations analyst in manufacturing and supply chain planning and now looking to grow as a data analyst. 
+After graduating with a chemical engineering degree, I found a passion for analytics. Having completed the Google Data Analytics course, I am currently working on SQL and Tableau projects. I have garnered experience in functional consulting, processing and supply chain planning in FMCG and now looking to grow as a business analyst. 
 
 Excited for the journey ahead!
 
