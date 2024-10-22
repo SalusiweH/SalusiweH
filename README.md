@@ -8,7 +8,7 @@ After graduating with a chemical engineering degree, I found a passion for data 
 
 Excited for the journey ahead!
 
-* 🌍  I'm based in Cape Town, South Africa
+* 🌍  I'm based in Johannesburg, South Africa
 * ✉️  You can contact me at [salusiwehlambelo@gmail.com](mailto:salusiwehlambelo@gmail.com)
 
 ### Skills
